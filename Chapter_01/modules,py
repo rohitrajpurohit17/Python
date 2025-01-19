@@ -1,3 +1,9 @@
+# This the way we can import and use other code
+# pyjokes is used and installed
+# Get to kknow how to install any extension in vs
+# In terminal just have to write "pip install extenstion name"
+# ex:-  pip install pyjokes
+# ex2:- pip install flash  & so on.....
 import pyjokes
 
 joke = pyjokes.get_joke()
