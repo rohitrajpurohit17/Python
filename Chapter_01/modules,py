@@ -1,10 +1,16 @@
 # This the way we can import and use other code
-# pyjokes is used and installed
-# Get to kknow how to install any extension in vs
-# In terminal just have to write "pip install extenstion name"
-# ex:-  pip install pyjokes
-# ex2:- pip install flash  & so on.....
 import pyjokes
 
+# This gonna print Different Jokes Evrytime U Run
 joke = pyjokes.get_joke()
 print(joke)
+
+# pyjokes is used and installed
+""" 
+We use # for SIngle CMT and for multi we use 
+" Double Quotation TRIPLE times
+Get to know how to install any extension in vs
+In terminal just have to write "pip install extenstion name"
+ex:-  pip install pyjokes
+ex2:- pip install flash  & so on.....
+A pip is package manager for python"""
