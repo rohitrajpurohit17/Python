@@ -4,4 +4,4 @@ a = int(input("Enter number you want Square : "))
 
 print("The Square of given  Number is:", a**2)
 print("The Square of given  Number is:", a*a)
-# Bhot are valid ways 
+# Both are valid ways 
