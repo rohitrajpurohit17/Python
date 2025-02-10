@@ -7,7 +7,9 @@ marks = {
     "Rohit" : 100,
     "Mohit" : 80,
     "DR" : 200, #Duplicates are not allowed example
-    "DR" : 100
+    "DR" : 100,
+    0 : "Rohit", #Key pair can be zero
+    "lists" : [20,30,10]
 }
 # It is same like list and tuple
 
